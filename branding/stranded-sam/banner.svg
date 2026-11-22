@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0f161e"/><stop offset="1" stop-color="#2a3a46"/>
+  </linearGradient>
+</defs>
+<rect width="2560" height="1440" fill="url(#sky)"/>
+<!-- moon -->
+<circle cx="1980" cy="360" r="120" fill="#d8cfb2" opacity="0.9"/>
+<circle cx="2030" cy="330" r="22" fill="#c4bb9d"/><circle cx="1940" cy="400" r="14" fill="#c4bb9d"/>
+<!-- rain -->
+<g stroke="#9fb3c0" stroke-width="3" opacity="0.18">
+  <line x1="-100" y1="0" x2="-130" y2="90"/>
+<line x1="297" y1="233" x2="267" y2="323"/>
+<line x1="694" y1="466" x2="664" y2="556"/>
+<line x1="1091" y1="699" x2="1061" y2="789"/>
+<line x1="1488" y1="932" x2="1458" y2="1022"/>
+<line x1="1885" y1="1165" x2="1855" y2="1255"/>
+<line x1="2282" y1="98" x2="2252" y2="188"/>
+<line x1="-21" y1="331" x2="-51" y2="421"/>
+<line x1="376" y1="564" x2="346" y2="654"/>
+<line x1="773" y1="797" x2="743" y2="887"/>
+<line x1="1170" y1="1030" x2="1140" y2="1120"/>
+<line x1="1567" y1="1263" x2="1537" y2="1353"/>
+<line x1="1964" y1="196" x2="1934" y2="286"/>
+<line x1="2361" y1="429" x2="2331" y2="519"/>
+<line x1="58" y1="662" x2="28" y2="752"/>
+<line x1="455" y1="895" x2="425" y2="985"/>
+<line x1="852" y1="1128" x2="822" y2="1218"/>
+<line x1="1249" y1="61" x2="1219" y2="151"/>
+<line x1="1646" y1="294" x2="1616" y2="384"/>
+<line x1="2043" y1="527" x2="2013" y2="617"/>
+<line x1="2440" y1="760" x2="2410" y2="850"/>
+<line x1="137" y1="993" x2="107" y2="1083"/>
+<line x1="534" y1="1226" x2="504" y2="1316"/>
+<line x1="931" y1="159" x2="901" y2="249"/>
+<line x1="1328" y1="392" x2="1298" y2="482"/>
+<line x1="1725" y1="625" x2="1695" y2="715"/>
+<line x1="2122" y1="858" x2="2092" y2="948"/>
+<line x1="2519" y1="1091" x2="2489" y2="1181"/>
+<line x1="216" y1="24" x2="186" y2="114"/>
+<line x1="613" y1="257" x2="583" y2="347"/>
+<line x1="1010" y1="490" x2="980" y2="580"/>
+<line x1="1407" y1="723" x2="1377" y2="813"/>
+<line x1="1804" y1="956" x2="1774" y2="1046"/>
+<line x1="2201" y1="1189" x2="2171" y2="1279"/>
+<line x1="2598" y1="122" x2="2568" y2="212"/>
+<line x1="295" y1="355" x2="265" y2="445"/>
+<line x1="692" y1="588" x2="662" y2="678"/>
+<line x1="1089" y1="821" x2="1059" y2="911"/>
+<line x1="1486" y1="1054" x2="1456" y2="1144"/>
+<line x1="1883" y1="1287" x2="1853" y2="1377"/>
+<line x1="2280" y1="220" x2="2250" y2="310"/>
+<line x1="-23" y1="453" x2="-53" y2="543"/>
+<line x1="374" y1="686" x2="344" y2="776"/>
+<line x1="771" y1="919" x2="741" y2="1009"/>
+<line x1="1168" y1="1152" x2="1138" y2="1242"/>
+<line x1="1565" y1="85" x2="1535" y2="175"/>
+<line x1="1962" y1="318" x2="1932" y2="408"/>
+<line x1="2359" y1="551" x2="2329" y2="641"/>
+<line x1="56" y1="784" x2="26" y2="874"/>
+<line x1="453" y1="1017" x2="423" y2="1107"/>
+<line x1="850" y1="1250" x2="820" y2="1340"/>
+<line x1="1247" y1="183" x2="1217" y2="273"/>
+<line x1="1644" y1="416" x2="1614" y2="506"/>
+<line x1="2041" y1="649" x2="2011" y2="739"/>
+<line x1="2438" y1="882" x2="2408" y2="972"/>
+<line x1="135" y1="1115" x2="105" y2="1205"/>
+<line x1="532" y1="48" x2="502" y2="138"/>
+<line x1="929" y1="281" x2="899" y2="371"/>
+<line x1="1326" y1="514" x2="1296" y2="604"/>
+<line x1="1723" y1="747" x2="1693" y2="837"/>
+<line x1="2120" y1="980" x2="2090" y2="1070"/>
+<line x1="2517" y1="1213" x2="2487" y2="1303"/>
+<line x1="214" y1="146" x2="184" y2="236"/>
+<line x1="611" y1="379" x2="581" y2="469"/>
+<line x1="1008" y1="612" x2="978" y2="702"/>
+<line x1="1405" y1="845" x2="1375" y2="935"/>
+<line x1="1802" y1="1078" x2="1772" y2="1168"/>
+<line x1="2199" y1="11" x2="2169" y2="101"/>
+<line x1="2596" y1="244" x2="2566" y2="334"/>
+<line x1="293" y1="477" x2="263" y2="567"/>
+<line x1="690" y1="710" x2="660" y2="800"/>
+</g>
+<!-- far skyline -->
+<path d="M0,1000 L0,640 L120,640 L120,560 L230,560 L230,700 L330,700 L330,480 L380,450 L440,480 L440,720 L1300,720 L1300,600 L1380,560 L1420,610 L1500,610 L1500,520 L1600,520 L1600,660 L1720,660 L1720,430 L1760,400 L1820,430 L1820,700 L1950,700 L1950,560 L2080,560 L2080,640 L2200,640 L2200,500 L2300,470 L2300,620 L2420,620 L2420,540 L2560,540 L2560,1000 Z" fill="#1c2833"/>
+<!-- windows far -->
+<g fill="#2b3a47"><rect x="140" y="580" width="16" height="24"/>
+<rect x="140" y="640" width="16" height="24"/>
+<rect x="140" y="700" width="16" height="24"/>
+<rect x="140" y="760" width="16" height="24"/>
+<rect x="170" y="580" width="16" height="24"/>
+<rect x="170" y="640" width="16" height="24"/>
+<rect x="170" y="700" width="16" height="24"/>
+<rect x="170" y="760" width="16" height="24"/>
+<rect x="200" y="580" width="16" height="24"/>
+<rect x="200" y="640" width="16" height="24"/>
+<rect x="200" y="700" width="16" height="24"/>
+<rect x="200" y="760" width="16" height="24"/>
+<rect x="1520" y="580" width="16" height="24"/>
+<rect x="1520" y="640" width="16" height="24"/>
+<rect x="1520" y="700" width="16" height="24"/>
+<rect x="1520" y="760" width="16" height="24"/>
+<rect x="1550" y="580" width="16" height="24"/>
+<rect x="1550" y="640" width="16" height="24"/>
+<rect x="1550" y="700" width="16" height="24"/>
+<rect x="1550" y="760" width="16" height="24"/>
+<rect x="1580" y="580" width="16" height="24"/>
+<rect x="1580" y="640" width="16" height="24"/>
+<rect x="1580" y="700" width="16" height="24"/>
+<rect x="1580" y="760" width="16" height="24"/>
+<rect x="1740" y="580" width="16" height="24"/>
+<rect x="1740" y="640" width="16" height="24"/>
+<rect x="1740" y="700" width="16" height="24"/>
+<rect x="1740" y="760" width="16" height="24"/>
+<rect x="1770" y="580" width="16" height="24"/>
+<rect x="1770" y="640" width="16" height="24"/>
+<rect x="1770" y="700" width="16" height="24"/>
+<rect x="1770" y="760" width="16" height="24"/>
+<rect x="1790" y="580" width="16" height="24"/>
+<rect x="1790" y="640" width="16" height="24"/>
+<rect x="1790" y="700" width="16" height="24"/>
+<rect x="1790" y="760" width="16" height="24"/>
+<rect x="2220" y="580" width="16" height="24"/>
+<rect x="2220" y="640" width="16" height="24"/>
+<rect x="2220" y="700" width="16" height="24"/>
+<rect x="2220" y="760" width="16" height="24"/>
+<rect x="2250" y="580" width="16" height="24"/>
+<rect x="2250" y="640" width="16" height="24"/>
+<rect x="2250" y="700" width="16" height="24"/>
+<rect x="2250" y="760" width="16" height="24"/>
+<rect x="2270" y="580" width="16" height="24"/>
+<rect x="2270" y="640" width="16" height="24"/>
+<rect x="2270" y="700" width="16" height="24"/>
+<rect x="2270" y="760" width="16" height="24"/></g>
+<g fill="#e8b85a" opacity="0.8"><rect x="170" y="640" width="16" height="24"/><rect x="1770" y="520" width="16" height="24"/></g>
+<!-- near broken buildings -->
+<g stroke="#111" stroke-width="12" stroke-linejoin="round">
+  <path d="M160,1100 L160,820 L300,820 L330,790 L360,840 L420,820 L420,1100 Z" fill="#243341"/>
+  <path d="M2120,1100 L2120,760 L2220,740 L2260,780 L2400,770 L2400,1100 Z" fill="#243341"/>
+  <!-- Sam's rooftop building -->
+  <path d="M520,1100 L520,905 L1180,905 L1180,1100 Z" fill="#33444f"/>
+  <rect x="500" y="880" width="700" height="34" fill="#3e515d"/>
+  <!-- water tank on roof -->
+  <rect x="560" y="760" width="110" height="120" rx="10" fill="#5a4a3a"/>
+  <path d="M550,760 L615,725 L680,760 Z" fill="#4a3c2f"/>
+  <path d="M580,880 L580,910 M650,880 L650,910" fill="none"/>
+</g>
+<!-- windows near -->
+<g fill="#1a2630" stroke="#111" stroke-width="6"><rect x="580" y="950" width="60" height="50"/>
+<rect x="580" y="1030" width="60" height="50"/>
+<rect x="700" y="950" width="60" height="50"/>
+<rect x="700" y="1030" width="60" height="50"/>
+<rect x="820" y="950" width="60" height="50"/>
+<rect x="820" y="1030" width="60" height="50"/>
+<rect x="940" y="950" width="60" height="50"/>
+<rect x="940" y="1030" width="60" height="50"/>
+<rect x="1060" y="950" width="60" height="50"/>
+<rect x="1060" y="1030" width="60" height="50"/></g>
+<!-- water -->
+<rect x="0" y="1060" width="2560" height="380" fill="#1b3442"/>
+<path d="M0,1060 L2560,1060" stroke="#111" stroke-width="10"/>
+<g stroke="#4f7385" stroke-width="6" stroke-linecap="round" opacity="0.7">
+  <path d="M80,1120 h120 M420,1150 h90 M900,1130 h160 M1300,1180 h120 M1700,1140 h150 M2100,1170 h110 M2400,1125 h90 M300,1250 h140 M1050,1260 h100 M1600,1280 h160 M2000,1300 h120"/>
+</g>
+<!-- debris: barrel + car roof -->
+<g stroke="#111" stroke-width="10" stroke-linejoin="round">
+  <rect x="1480" y="1075" width="70" height="60" rx="8" fill="#b4532a"/>
+  <path d="M1480,1095 h70" fill="none"/>
+  <path d="M1840,1090 Q1880,1050 1990,1050 Q2060,1050 2090,1090 Z" fill="#7a2f2f"/>
+</g>
+<!-- headlamp beam -->
+<path d="M840,610 L2560,250 L2560,700 Z" fill="#fff4c2" opacity="0.10"/>
+<!-- Sam full body, standing on roof -->
+<g stroke="#111" stroke-width="12" stroke-linejoin="round" stroke-linecap="round">
+  <!-- legs -->
+  <path d="M760,800 L752,872 L800,872 L806,800 Z" fill="#3a3f47"/>
+  <path d="M832,800 L838,872 L886,872 L880,800 Z" fill="#3a3f47"/>
+  <!-- boots -->
+  <path d="M740,866 L808,866 L808,884 L732,884 Q732,868 740,866 Z" fill="#5a3b22"/>
+  <path d="M832,866 L900,866 Q908,868 908,884 L832,884 Z" fill="#5a3b22"/>
+  <!-- backpack -->
+  <rect x="868" y="680" width="70" height="110" rx="16" fill="#8a3b2b"/>
+  <!-- torso jacket -->
+  <path d="M740,810 L748,700 Q760,665 820,665 Q880,665 892,700 L900,810 Z" fill="#5f6f34"/>
+  <path d="M820,690 L820,810" fill="none" stroke-width="8"/>
+  <!-- arms -->
+  <path d="M752,700 Q712,740 722,800" fill="none" stroke-width="34" stroke="#111"/>
+  <path d="M752,700 Q712,740 722,800" fill="none" stroke-width="20" stroke="#5f6f34"/>
+  <path d="M888,700 Q930,740 918,800" fill="none" stroke-width="34" stroke="#111"/>
+  <path d="M888,700 Q930,740 918,800" fill="none" stroke-width="20" stroke="#5f6f34"/>
+  <circle cx="722" cy="806" r="14" fill="#e3a77c"/>
+  <circle cx="918" cy="806" r="14" fill="#e3a77c"/>
+</g>
+<g transform="translate(820,600) scale(0.42) translate(-400,-410)"><g stroke="#111" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+  <!-- ears -->
+  <circle cx="242" cy="430" r="34" fill="#e3a77c"/>
+  <circle cx="558" cy="430" r="34" fill="#e3a77c"/>
+  <!-- head -->
+  <ellipse cx="400" cy="410" rx="160" ry="172" fill="#e3a77c"/>
+  <!-- hair -->
+  <path d="M242,372 C232,236 322,214 400,214 C482,214 568,238 558,372 L526,330 L488,352 L448,318 L404,348 L362,314 L322,350 L282,322 Z" fill="#4a2e1f"/>
+  <!-- headlamp strap -->
+  <path d="M244,350 Q400,318 556,350 L556,388 Q400,356 244,388 Z" fill="#2a2a2a"/>
+  <!-- headlamp body -->
+  <rect x="352" y="312" width="96" height="74" rx="18" fill="#f07a1f"/>
+  <circle cx="400" cy="349" r="23" fill="#fff4c2"/>
+  <!-- brows -->
+  <path d="M312,418 L356,412" fill="none"/>
+  <path d="M444,412 L488,418" fill="none"/>
+  <!-- eyes -->
+  <ellipse cx="336" cy="452" rx="12" ry="17" fill="#111"/>
+  <ellipse cx="464" cy="452" rx="12" ry="17" fill="#111"/>
+  <!-- nose -->
+  <path d="M400,470 Q390,492 404,498" fill="none" stroke-width="10"/>
+  <!-- mouth -->
+  <path d="M372,530 Q400,522 428,530" fill="none" stroke-width="11"/>
+</g>
+<!-- grime -->
+<g fill="#8a5a3c" opacity="0.55">
+  <ellipse cx="300" cy="500" rx="16" ry="7"/>
+  <ellipse cx="490" cy="492" rx="10" ry="5"/>
+</g></g>
+<!-- title -->
+<g font-family="Inter" font-weight="900">
+  <rect x="1090" y="582" width="210" height="62" rx="10" fill="#f07a1f" stroke="#111" stroke-width="8"/>
+  <text x="1195" y="628" text-anchor="middle" font-size="42" fill="#111" letter-spacing="3">DAY 01</text>
+  <text x="1086" y="770" font-size="112" fill="#f1e8d2" stroke="#111" stroke-width="16" paint-order="stroke" letter-spacing="2">STRANDED SAM</text>
+  <text x="1092" y="846" font-family="Inter" font-weight="700" font-size="46" fill="#c9d3d9" stroke="#111" stroke-width="8" paint-order="stroke">How long would you last?</text>
+</g>
+</svg>
