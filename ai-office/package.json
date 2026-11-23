@@ -1,0 +1,13 @@
+{
+  "name": "ai-office",
+  "version": "1.0.0",
+  "description": "Visueel AI-kantoor: elke actieve Claude Code-sessie is een medewerker met een eigen bureau.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node server.js --demo",
+    "install-hooks": "node install-hooks.js",
+    "remove-hooks": "node install-hooks.js --remove"
+  },
+  "engines": { "node": ">=18" }
+}
